@@ -1,2 +1,7 @@
-# Algoritmo de Busca
-Este projeto visa desenvolver modelos de reconhecimento de melhores rotas para sair da cidade de Arab e chegar até Bucareste, para este desenvolvimento dois métodos serão utilizados, a Busca Gulosa e o A*.
+# Algoritmos Inteligência Artificial
+Este projeto visa navegar por diversos modelos de inteligência artificial com a finalidade de preparar uma biblioteca capaz de ser utilizada de maneira simples e dinâmica.
+
+> Algoritmos de Busca
+  Nesta etapa será aplicados dois métodos de busca com o objetivo de percorrer o menor caminho entre dois pontos:
+  * Busca Gulosa: Algoritmo focado no uso da heuristica para encontrar a menor distância entre dois pontos;
+  * AEstrela: Algoritmo que mesca a heuristica com a distância real a ser precorrida entre dois pontos;
