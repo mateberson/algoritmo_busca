@@ -5,7 +5,7 @@
 from typing import List
 
 
-class Adjacente(object):
+class CidadeAdjacente(object):
     '''
         Classe responsável por gerenciar a arquitetura das cidades vizinhas
     '''
@@ -18,4 +18,4 @@ class Mapa(object):
     '''
     nome: str
     distancia_linha_reta: int
-    adjacentes: List[Adjacente]
+    adjacentes: List[CidadeAdjacente]
