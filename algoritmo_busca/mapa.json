@@ -1,0 +1,265 @@
+[{
+        "nome": "Porto União",
+        "distancia_linha_reta": 203,
+        "adjacentes": [{
+                "nome": "Paulo Frontin",
+                "distancia_real": 46
+            },
+            {
+                "nome": "São Mateus",
+                "distancia_real": 87
+            },
+            {
+                "nome": "Canoinhas",
+                "distancia_real": 78
+            }
+        ]
+    },
+    {
+        "nome": "Paulo Frontin",
+        "distancia_linha_reta": 172,
+        "adjacentes": [{
+                "nome": "Irati",
+                "distancia_real": 75
+            },
+            {
+                "nome": "Porto União",
+                "distancia_real": 46
+            }
+        ]
+    },
+    {
+        "nome": "Canoinhas",
+        "distancia_linha_reta": 141,
+        "adjacentes": [{
+                "nome": "Porto União",
+                "distancia_real": 78
+            },
+            {
+                "nome": "Três Barras",
+                "distancia_real": 12
+            },
+            {
+                "nome": "Mafra",
+                "distancia_real": 66
+            }
+        ]
+    },
+    {
+        "nome": "Três Barras",
+        "distancia_linha_reta": 131,
+        "adjacentes": [{
+                "nome": "São Mateus",
+                "distancia_real": 43
+            },
+            {
+                "nome": "Canoinhas",
+                "distancia_real": 12
+            }
+        ]
+    },
+    {
+        "nome": "São Mateus",
+        "distancia_linha_reta": 123,
+        "adjacentes": [{
+                "nome": "Irati",
+                "distancia_real": 57
+            },
+            {
+                "nome": "Palmeira",
+                "distancia_real": 77
+            },
+            {
+                "nome": "Lapa",
+                "distancia_real": 60
+            },
+            {
+                "nome": "Três Barras",
+                "distancia_real": 43
+            },
+            {
+                "nome": "Porto União",
+                "distancia_real": 87
+            }
+        ]
+    },
+    {
+        "nome": "Irati",
+        "distancia_linha_reta": 139,
+        "adjacentes": [{
+                "nome": "Paulo Frontin",
+                "distancia_real": 75
+            },
+            {
+                "nome": "São Mateus",
+                "distancia_real": 57
+            },
+            {
+                "nome": "Palmeira",
+                "distancia_real": 75
+            }
+        ]
+    },
+    {
+        "nome": "Curitiba",
+        "distancia_linha_reta": 0,
+        "adjacentes": [{
+                "nome": "Campo Largo",
+                "distancia_real": 29
+            },
+            {
+                "nome": "Balsa Nova",
+                "distancia_real": 51
+            },
+            {
+                "nome": "Araucária",
+                "distancia_real": 37
+            },
+            {
+                "nome": "São José do Pinhais",
+                "distancia_real": 15
+            }
+        ]
+    },
+    {
+        "nome": "Palmeira",
+        "distancia_linha_reta": 59,
+        "adjacentes": [{
+                "nome": "Irati",
+                "distancia_real": 75
+            },
+            {
+                "nome": "São Mateus",
+                "distancia_real": 77
+            },
+            {
+                "nome": "Campo Largo",
+                "distancia_real": 55
+            }
+        ]
+    },
+    {
+        "nome": "Mafra",
+        "distancia_linha_reta": 94,
+        "adjacentes": [{
+                "nome": "Canoinhas",
+                "distancia_real": 66
+            },
+            {
+                "nome": "Lapa",
+                "distancia_real": 57
+            },
+            {
+                "nome": "Tijucas do Sul",
+                "distancia_real": 99
+            }
+        ]
+    },
+    {
+        "nome": "Campo Largo",
+        "distancia_linha_reta": 27,
+        "adjacentes": [{
+                "nome": "Palmeira",
+                "distancia_real": 55
+            },
+            {
+                "nome": "Balsa Nova",
+                "distancia_real": 22
+            },
+            {
+                "nome": "Curitiba",
+                "distancia_real": 29
+            }
+        ]
+    },
+    {
+        "nome": "Balsa Nova",
+        "distancia_linha_reta": 41,
+        "adjacentes": [{
+                "nome": "Campo Largo",
+                "distancia_real": 22
+            },
+            {
+                "nome": "Curitiba",
+                "distancia_real": 51
+            },
+            {
+                "nome": "Contenda",
+                "distancia_real": 19
+            }
+        ]
+    },
+    {
+        "nome": "Lapa",
+        "distancia_linha_reta": 74,
+        "adjacentes": [{
+                "nome": "Contenda",
+                "distancia_real": 26
+            },
+            {
+                "nome": "Mafra",
+                "distancia_real": 57
+            },
+            {
+                "nome": "São Mateus",
+                "distancia_real": 60
+            }
+        ]
+    },
+    {
+        "nome": "Tijucas do Sul",
+        "distancia_linha_reta": 56,
+        "adjacentes": [{
+                "nome": "Mafra",
+                "distancia_real": 99
+            },
+            {
+                "nome": "São José do Pinhais",
+                "distancia_real": 49
+            }
+        ]
+    },
+    {
+        "nome": "Araucária",
+        "distancia_linha_reta": 23,
+        "adjacentes": [{
+                "nome": "Contenda",
+                "distancia_real": 18
+            },
+            {
+                "nome": "Curitiba",
+                "distancia_real": 37
+            }
+        ]
+    },
+    {
+        "nome": "São José do Pinhais",
+        "distancia_linha_reta": 13,
+        "adjacentes": [{
+                "nome": "Curitiba",
+                "distancia_real": 15
+            },
+            {
+                "nome": "Tijucas do Sul",
+                "distancia_real": 49
+            }
+        ]
+    },
+    {
+        "nome": "Contenda",
+        "distancia_linha_reta": 39,
+        "adjacentes": [{
+                "nome": "Lapa",
+                "distancia_real": 26
+            },
+            {
+                "nome": "Balsa Nova",
+                "distancia_real": 19
+            },
+            {
+                "nome": "Araucária",
+                "distancia_real": 18
+            }
+        ]
+    }
+]
