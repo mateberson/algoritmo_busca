@@ -101,27 +101,6 @@
         ]
     },
     {
-        "nome": "Curitiba",
-        "distancia_linha_reta": 0,
-        "adjacentes": [{
-                "nome": "Campo Largo",
-                "distancia_real": 29
-            },
-            {
-                "nome": "Balsa Nova",
-                "distancia_real": 51
-            },
-            {
-                "nome": "Araucária",
-                "distancia_real": 37
-            },
-            {
-                "nome": "São José do Pinhais",
-                "distancia_real": 15
-            }
-        ]
-    },
-    {
         "nome": "Palmeira",
         "distancia_linha_reta": 59,
         "adjacentes": [{
@@ -259,6 +238,27 @@
             {
                 "nome": "Araucária",
                 "distancia_real": 18
+            }
+        ]
+    },
+    {
+        "nome": "Curitiba",
+        "distancia_linha_reta": 0,
+        "adjacentes": [{
+                "nome": "Campo Largo",
+                "distancia_real": 29
+            },
+            {
+                "nome": "Balsa Nova",
+                "distancia_real": 51
+            },
+            {
+                "nome": "Araucária",
+                "distancia_real": 37
+            },
+            {
+                "nome": "São José do Pinhais",
+                "distancia_real": 15
             }
         ]
     }
